@@ -1,0 +1,12 @@
+C:\Users\rjha.skp\Documents\Projekter\H3\Bikeshop\Bikeshop\bin\Debug\net5.0\Bikeshop.deps.json
+C:\Users\rjha.skp\Documents\Projekter\H3\Bikeshop\Bikeshop\bin\Debug\net5.0\Bikeshop.dll
+C:\Users\rjha.skp\Documents\Projekter\H3\Bikeshop\Bikeshop\bin\Debug\net5.0\ref\Bikeshop.dll
+C:\Users\rjha.skp\Documents\Projekter\H3\Bikeshop\Bikeshop\bin\Debug\net5.0\Bikeshop.pdb
+C:\Users\rjha.skp\Documents\Projekter\H3\Bikeshop\Bikeshop\obj\Debug\net5.0\Bikeshop.csprojAssemblyReference.cache
+C:\Users\rjha.skp\Documents\Projekter\H3\Bikeshop\Bikeshop\obj\Debug\net5.0\Bikeshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rjha.skp\Documents\Projekter\H3\Bikeshop\Bikeshop\obj\Debug\net5.0\Bikeshop.AssemblyInfoInputs.cache
+C:\Users\rjha.skp\Documents\Projekter\H3\Bikeshop\Bikeshop\obj\Debug\net5.0\Bikeshop.AssemblyInfo.cs
+C:\Users\rjha.skp\Documents\Projekter\H3\Bikeshop\Bikeshop\obj\Debug\net5.0\Bikeshop.csproj.CoreCompileInputs.cache
+C:\Users\rjha.skp\Documents\Projekter\H3\Bikeshop\Bikeshop\obj\Debug\net5.0\Bikeshop.dll
+C:\Users\rjha.skp\Documents\Projekter\H3\Bikeshop\Bikeshop\obj\Debug\net5.0\ref\Bikeshop.dll
+C:\Users\rjha.skp\Documents\Projekter\H3\Bikeshop\Bikeshop\obj\Debug\net5.0\Bikeshop.pdb
